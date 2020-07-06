@@ -1,0 +1,22 @@
+{
+  "name": "composing-software-book",
+  "version": "1.0.0",
+  "description": "A set of scripts taken from the Composing Software book by Eric Elliot",
+  "main": "add-to-cart-composition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelp/composing-software-book.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Abdel P�erez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdelp/composing-software-book/issues"
+  },
+  "homepage": "https://github.com/abdelp/composing-software-book#readme"
+}
