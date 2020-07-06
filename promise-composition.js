@@ -1,6 +1,6 @@
 const composeM = flatMap => (...ms) => (
   ms.reduce((f, g) => x => {
-    return g(x)[flatMap](f);
+    return g(x).then(f);
   })
 );
 
