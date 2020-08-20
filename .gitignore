@@ -1,3 +1,9 @@
 auto-currying.js
 /node_modules
 chained-methods.js
+map-reduce.js
+filter-reduce.js
+identity-law.js
+monads.js
+with-constructor-mixin.js
+change-user-factory.js
