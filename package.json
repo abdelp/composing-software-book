@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/abdelp/composing-software-book#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.20",
+    "moneysafe": "^2.2.1"
   }
 }
