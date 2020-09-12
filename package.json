@@ -21,6 +21,8 @@
   "homepage": "https://github.com/abdelp/composing-software-book#readme",
   "dependencies": {
     "lodash": "^4.17.20",
-    "moneysafe": "^2.2.1"
-  }
+    "moneysafe": "^2.2.1",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {}
 }
