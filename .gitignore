@@ -8,3 +8,4 @@
 --with-constructor-mixin.js
 --change-user-factory.js
 --express-test.js
+--composing-lenses.js
